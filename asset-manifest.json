@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "http://dhruvilshah.memain.55757e91b0a76ee2f4c2.0.js",
-    "vendors~main.js": "http://dhruvilshah.mevendors~main.55757e91b0a76ee2f4c2.chunk.js",
+    "main.js": "http://dhruvilshah.memain.3f79d4bc84e935133d3c.0.js",
+    "vendors~main.js": "http://dhruvilshah.mevendors~main.3f79d4bc84e935133d3c.chunk.js",
     "images/32802a01fe0c4bcb2f696f64be22753e-emfinity.png": "http://dhruvilshah.meimages/32802a01fe0c4bcb2f696f64be22753e-emfinity.png",
     "index.html": "http://dhruvilshah.meindex.html",
-    "main.55757e91b0a76ee2f4c2.0.js.gz": "http://dhruvilshah.memain.55757e91b0a76ee2f4c2.0.js.gz",
-    "vendors~main.55757e91b0a76ee2f4c2.chunk.js.gz": "http://dhruvilshah.mevendors~main.55757e91b0a76ee2f4c2.chunk.js.gz"
+    "main.3f79d4bc84e935133d3c.0.js.gz": "http://dhruvilshah.memain.3f79d4bc84e935133d3c.0.js.gz",
+    "vendors~main.3f79d4bc84e935133d3c.chunk.js.gz": "http://dhruvilshah.mevendors~main.3f79d4bc84e935133d3c.chunk.js.gz"
   },
   "entrypoints": [
-    "vendors~main.55757e91b0a76ee2f4c2.chunk.js",
-    "main.55757e91b0a76ee2f4c2.0.js"
+    "vendors~main.3f79d4bc84e935133d3c.chunk.js",
+    "main.3f79d4bc84e935133d3c.0.js"
   ]
 }
