@@ -1,25 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.f6c4968b.chunk.css",
-    "main.js": "/static/js/main.6fc04960.chunk.js",
+    "main.js": "/static/js/main.6cde5b23.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.1a86658a.js",
     "static/css/2.cbe2632d.chunk.css": "/static/css/2.cbe2632d.chunk.css",
-    "static/js/2.5f227c61.chunk.js": "/static/js/2.5f227c61.chunk.js",
+    "static/js/2.23fc812a.chunk.js": "/static/js/2.23fc812a.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.b7075697c52e7b228e88ef4cd8c42020.js": "/precache-manifest.b7075697c52e7b228e88ef4cd8c42020.js",
+    "precache-manifest.a9c5bd8375375d758c1954e5e8ac543e.js": "/precache-manifest.a9c5bd8375375d758c1954e5e8ac543e.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.5f227c61.chunk.js.LICENSE.txt": "/static/js/2.5f227c61.chunk.js.LICENSE.txt",
+    "static/js/2.23fc812a.chunk.js.LICENSE.txt": "/static/js/2.23fc812a.chunk.js.LICENSE.txt",
     "static/media/biscuit.svg": "/static/media/biscuit.650a7b8f.svg",
     "static/media/certifierLogo.png": "/static/media/certifierLogo.2f334332.png",
     "static/media/emfinity.png": "/static/media/emfinity.7e4eec1c.png",
     "static/media/law.svg": "/static/media/law.8c37aa92.svg",
+    "static/media/numbot.jpg": "/static/media/numbot.a8f2367a.jpg",
     "static/media/rice.svg": "/static/media/rice.de0699e8.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1a86658a.js",
     "static/css/2.cbe2632d.chunk.css",
-    "static/js/2.5f227c61.chunk.js",
+    "static/js/2.23fc812a.chunk.js",
     "static/css/main.f6c4968b.chunk.css",
-    "static/js/main.6fc04960.chunk.js"
+    "static/js/main.6cde5b23.chunk.js"
   ]
 }
