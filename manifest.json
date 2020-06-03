@@ -1,18 +1,19 @@
 {
-  "short_name": "Portfolio",
-  "name": "Portfolio Dhruvil Shah",
-  "icons": [{
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "DS_logo.png",
-      "type": "image/png"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+	"short_name": "Portfolio",
+	"name": "Portfolio Dhruvil Shah",
+	"icons": [
+		{
+			"src": "favicon.ico",
+			"sizes": "64x64 32x32 24x24 16x16",
+			"type": "image/x-icon"
+		},
+		{
+			"src": "DS_logo.png",
+			"type": "image/png"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#55a4e9",
+	"background_color": "#55a4e9"
 }
