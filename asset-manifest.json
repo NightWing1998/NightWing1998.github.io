@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.24598b4c.chunk.css",
-    "main.js": "/static/js/main.a41158ec.chunk.js",
+    "main.css": "/static/css/main.5b55b442.chunk.css",
+    "main.js": "/static/js/main.e012bea6.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.c8b434d9.js",
-    "static/js/2.30999074.chunk.js": "/static/js/2.30999074.chunk.js",
+    "static/js/2.129362cd.chunk.js": "/static/js/2.129362cd.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.98108e98500b908897e7cf410b4f9e49.js": "/precache-manifest.98108e98500b908897e7cf410b4f9e49.js",
+    "precache-manifest.056f7ec76930ab44d3f450fd8a31cebd.js": "/precache-manifest.056f7ec76930ab44d3f450fd8a31cebd.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.30999074.chunk.js.LICENSE.txt": "/static/js/2.30999074.chunk.js.LICENSE.txt",
+    "static/js/2.129362cd.chunk.js.LICENSE.txt": "/static/js/2.129362cd.chunk.js.LICENSE.txt",
     "static/media/biscuit.svg": "/static/media/biscuit.650a7b8f.svg",
     "static/media/certifierLogo.png": "/static/media/certifierLogo.2f334332.png",
     "static/media/emfinity.png": "/static/media/emfinity.7e4eec1c.png",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c8b434d9.js",
-    "static/js/2.30999074.chunk.js",
-    "static/css/main.24598b4c.chunk.css",
-    "static/js/main.a41158ec.chunk.js"
+    "static/js/2.129362cd.chunk.js",
+    "static/css/main.5b55b442.chunk.css",
+    "static/js/main.e012bea6.chunk.js"
   ]
 }
