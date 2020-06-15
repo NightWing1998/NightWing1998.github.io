@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b55b442.chunk.css",
-    "main.js": "/static/js/main.f9a52456.chunk.js",
+    "main.css": "/static/css/main.59170223.chunk.css",
+    "main.js": "/static/js/main.431e406f.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.c8b434d9.js",
-    "static/js/2.129362cd.chunk.js": "/static/js/2.129362cd.chunk.js",
+    "static/js/2.07c3d67a.chunk.js": "/static/js/2.07c3d67a.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.5216d76b350991a305799c7d818de6a6.js": "/precache-manifest.5216d76b350991a305799c7d818de6a6.js",
+    "precache-manifest.5785dea0f96bfd608653c6f680ad757a.js": "/precache-manifest.5785dea0f96bfd608653c6f680ad757a.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.129362cd.chunk.js.LICENSE.txt": "/static/js/2.129362cd.chunk.js.LICENSE.txt",
+    "static/js/2.07c3d67a.chunk.js.LICENSE.txt": "/static/js/2.07c3d67a.chunk.js.LICENSE.txt",
     "static/media/biscuit.svg": "/static/media/biscuit.650a7b8f.svg",
     "static/media/certifierLogo.png": "/static/media/certifierLogo.2f334332.png",
     "static/media/emfinity.png": "/static/media/emfinity.7e4eec1c.png",
     "static/media/law.svg": "/static/media/law.8c37aa92.svg",
+    "static/media/mailForMe.png": "/static/media/mailForMe.61a5bc61.png",
     "static/media/numbot.jpg": "/static/media/numbot.a8f2367a.jpg",
     "static/media/rice.svg": "/static/media/rice.de0699e8.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c8b434d9.js",
-    "static/js/2.129362cd.chunk.js",
-    "static/css/main.5b55b442.chunk.css",
-    "static/js/main.f9a52456.chunk.js"
+    "static/js/2.07c3d67a.chunk.js",
+    "static/css/main.59170223.chunk.css",
+    "static/js/main.431e406f.chunk.js"
   ]
 }
